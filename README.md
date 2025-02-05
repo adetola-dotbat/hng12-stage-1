@@ -34,21 +34,4 @@ php artisan serve
 
 ## The API will be available at:
 
-http://127.0.0.1:8000/api/info
 
-API Documentation
-
-Documentation link: https://documenter.getpostman.com/view/20742399/2sAYX2NQ8B
-
-Endpoint
-
-GET /api/info
-
-Response Format (200 OK)
-
-{
-"email": "adewolenoah3@gmail.com",
-"current_datetime": "2025-01-31T05:05:05Z",
-"github_url": "https://github.com/adetola-dotbat/hng-stag-0"
-}
-Looking for skilled PHP developers? Check out: - [Skilled Laravel Developer](https://hng.tech/hire/php-developers).
